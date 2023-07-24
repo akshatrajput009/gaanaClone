@@ -1,0 +1,1441 @@
+{
+  "current_playlist": [],
+  "cardbox": [
+    {
+      "songsbox": "latest albums",
+      "songscards": [
+        {
+          "id": 0,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "paro",
+          "album_name": "pyaar ka panchnaman 2",
+          "singers": "",
+          "image_source": "ASSETS/images/ppk2.jpg",
+          "quality": {
+            "low": "ASSETS/songs/paro.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 1,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "jiyo re bahubali",
+          "album_name": "bahubali 2",
+          "singers": "",
+          "image_source": "ASSETS/images/bahubali.jpg",
+          "quality": {
+            "low": "ASSETS/songs/jiyorebahubali.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 2,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "hamsafar",
+          "album_name": "badrinath ki dhulania",
+          "singers": "",
+          "image_source": "ASSETS/images/hamsafar.jpg",
+          "quality": {
+            "low": "ASSETS/songs/hamsafar.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 3,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ik vaari aa",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+          "quality": {
+            "low": "ASSETS/songs/ikvaariaa.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 4,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ladki kar gayi chull",
+          "album_name": "kapoor and sons",
+          "singers": "",
+          "image_source": "ASSETS/images/hip_hop.jpg",
+          "quality": {
+            "low": "ASSETS/songs/kargyichull.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 5,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "let me love you",
+          "album_name": "encore",
+          "singers": "",
+          "image_source": "ASSETS/images/letmeloveu.jpg",
+          "quality": {
+            "low": "ASSETS/songs/letmeloveu.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 6,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "raabta",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/rabta.jpg",
+          "quality": {
+            "low": "ASSETS/songs/raabta.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 7,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "shape of you",
+          "album_name": "shape of you",
+          "singers": "",
+          "image_source": "ASSETS/images/shape_of_you.jpg",
+          "quality": {
+            "low": "ASSETS/songs/shapeofyou.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        }
+      ]
+    },
+    {
+      "songsbox": "new  releases",
+      "songscards": [
+        {
+          "id": 0,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "paro",
+          "album_name": "pyaar ka panchnaman 2",
+          "singers": "",
+          "image_source": "ASSETS/images/ppk2.jpg",
+          "quality": {
+            "low": "ASSETS/songs/paro.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 1,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "jiyo re bahubali",
+          "album_name": "bahubali 2",
+          "singers": "",
+          "image_source": "ASSETS/images/bahubali.jpg",
+          "quality": {
+            "low": "ASSETS/songs/jiyorebahubali.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 2,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "hamsafar",
+          "album_name": "badrinath ki dhulania",
+          "singers": "",
+          "image_source": "ASSETS/images/hamsafar.jpg",
+          "quality": {
+            "low": "ASSETS/songs/hamsafar.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 3,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ik vaari aa",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+          "quality": {
+            "low": "ASSETS/songs/ikvaariaa.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 4,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ladki kar gayi chull",
+          "album_name": "kapoor and sons",
+          "singers": "",
+          "image_source": "ASSETS/images/hip_hop.jpg",
+          "quality": {
+            "low": "ASSETS/songs/kargyichull.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 5,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "let me love you",
+          "album_name": "encore",
+          "singers": "",
+          "image_source": "ASSETS/images/letmeloveu.jpg",
+          "quality": {
+            "low": "ASSETS/songs/letmeloveu.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 6,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "raabta",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/rabta.jpg",
+          "quality": {
+            "low": "ASSETS/songs/raabta.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 7,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "shape of you",
+          "album_name": "shape of you",
+          "singers": "",
+          "image_source": "ASSETS/images/shape_of_you.jpg",
+          "quality": {
+            "low": "ASSETS/songs/shapeofyou.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        }
+      ]
+    },
+    {
+      "songsbox": "trending songs",
+      "songscards": [
+        {
+          "id": 0,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "paro",
+          "album_name": "pyaar ka panchnaman 2",
+          "singers": "",
+          "image_source": "ASSETS/images/ppk2.jpg",
+          "quality": {
+            "low": "ASSETS/songs/paro.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 1,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "jiyo re bahubali",
+          "album_name": "bahubali 2",
+          "singers": "",
+          "image_source": "ASSETS/images/bahubali.jpg",
+          "quality": {
+            "low": "ASSETS/songs/jiyorebahubali.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 2,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "hamsafar",
+          "album_name": "badrinath ki dhulania",
+          "singers": "",
+          "image_source": "ASSETS/images/hamsafar.jpg",
+          "quality": {
+            "low": "ASSETS/songs/hamsafar.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 3,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ik vaari aa",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+          "quality": {
+            "low": "ASSETS/songs/ikvaariaa.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 4,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "ladki kar gayi chull",
+          "album_name": "kapoor and sons",
+          "singers": "",
+          "image_source": "ASSETS/images/hip_hop.jpg",
+          "quality": {
+            "low": "ASSETS/songs/kargyichull.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 5,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "let me love you",
+          "album_name": "encore",
+          "singers": "",
+          "image_source": "ASSETS/images/letmeloveu.jpg",
+          "quality": {
+            "low": "ASSETS/songs/letmeloveu.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 6,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "raabta",
+          "album_name": "raabta",
+          "singers": "",
+          "image_source": "ASSETS/images/rabta.jpg",
+          "quality": {
+            "low": "ASSETS/songs/raabta.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        },
+        {
+          "id": 7,
+          "playlist_type": false,
+          "playlist": null,
+          "song_name": "shape of you",
+          "album_name": "shape of you",
+          "singers": "",
+          "image_source": "ASSETS/images/shape_of_you.jpg",
+          "quality": {
+            "low": "ASSETS/songs/shapeofyou.mp3",
+            "medium": "",
+            "high": ""
+          },
+          "release_date": "date"
+        }
+      ]
+    },
+    {
+      "songsbox": "top charts",
+      "songscards": [
+        {
+          "id": 0,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubal",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "ganna top 50",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/ganna_top50.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 1,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "bollywood top 50",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/top_50.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 2,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "new hot 20 hindi songs",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/new_20.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 3,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "bollywood love 2017",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/bollylove_top5.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 4,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "new 20 international songs",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/internation_top5.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 5,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "latest love bollywood 2017 songs",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/bollylove_top5.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 6,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "today top 5",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/internation_top5love.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        },
+        {
+          "id": 7,
+          "playlist_type": true,
+          "playlist": [
+            {
+              "id": 0,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "paro",
+              "album_name": "pyaar ka panchnaman 2",
+              "singers": "",
+              "image_source": "ASSETS/images/ppk2.jpg",
+              "quality": {
+                "low": "ASSETS/songs/paro.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 1,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "jiyo re bahubali",
+              "album_name": "bahubali 2",
+              "singers": "",
+              "image_source": "ASSETS/images/bahubali.jpg",
+              "quality": {
+                "low": "ASSETS/songs/jiyorebahubali.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 2,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "hamsafar",
+              "album_name": "badrinath ki dhulania",
+              "singers": "",
+              "image_source": "ASSETS/images/hamsafar.jpg",
+              "quality": {
+                "low": "ASSETS/songs/hamsafar.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 3,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ik vaari aa",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/ik_vaari_aa.jpg",
+              "quality": {
+                "low": "ASSETS/songs/ikvaariaa.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 4,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "ladki kar gayi chull",
+              "album_name": "kapoor and sons",
+              "singers": "",
+              "image_source": "ASSETS/images/hip_hop.jpg",
+              "quality": {
+                "low": "ASSETS/songs/kargyichull.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 5,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "let me love you",
+              "album_name": "encore",
+              "singers": "",
+              "image_source": "ASSETS/images/letmeloveu.jpg",
+              "quality": {
+                "low": "ASSETS/songs/letmeloveu.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 6,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "raabta",
+              "album_name": "raabta",
+              "singers": "",
+              "image_source": "ASSETS/images/rabta.jpg",
+              "quality": {
+                "low": "ASSETS/songs/raabta.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            },
+            {
+              "id": 7,
+              "playlist_type": false,
+              "playlist": null,
+              "song_name": "shape of you",
+              "album_name": "shape of you",
+              "singers": "",
+              "image_source": "ASSETS/images/shape_of_you.jpg",
+              "quality": {
+                "low": "ASSETS/songs/shapeofyou.mp3",
+                "medium": "",
+                "high": ""
+              },
+              "release_date": "date"
+            }
+          ],
+          "song_name": "today hindi top 5",
+          "album_name": "",
+          "singers": "",
+          "image_source": "ASSETS/images/hindi_top5.jpg",
+          "quality": { "low": "", "medium": "", "high": "" },
+          "release_date": "date"
+        }
+      ]
+    }
+  ]
+}
