@@ -66,7 +66,7 @@ const renderCards = function (obj, index) {
 </div>`;
 };
 
-fetch("JS/ganna.json")
+fetch("/ganna.json")
   .then((res) => res.json())
   .then((data) => {
     currentPlaylist = Object.values(data)[0];
