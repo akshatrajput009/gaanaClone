@@ -1,3 +1,4 @@
+
 const main = document.querySelector("main");
 const buttonDiv = document.querySelector(".songButtons");
 const myProgressBar = document.querySelector(".seek");
