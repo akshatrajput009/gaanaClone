@@ -222,8 +222,9 @@ filter {
 /* song bar */
 
 navSong {
-  position: sticky;
-  bottom: 0vh;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 .Progress {
   cursor: pointer;
