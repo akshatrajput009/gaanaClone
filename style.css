@@ -308,6 +308,7 @@ input[type="range"]::-webkit-slider-thumb {
 
 .songDetails > img {
   border-radius: 3px;
+  max-width:37px
 }
 .name {
   display: inline-block;
